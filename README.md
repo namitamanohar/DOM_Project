@@ -2,11 +2,12 @@
 
 ## Student Instructions
 
-- For this project, you will be looking at the starter code
+- For this project, you will be looking at the starter code and following the directions in the scripts.js file. The project will requre you to apply what you have learned in working with getting elements and setting elements using the DOM. The functions in the scripts.js file and the onclick attributes in the index.html file have already been created for you.
 
 ## Resources
 
 - https://www.w3schools.com/howto/howto_js_toggle_class.asp
+- https://www.w3schools.com/jquery/html_removeclass.asp
 
 ## Instructions
 
