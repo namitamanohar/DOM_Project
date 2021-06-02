@@ -2,7 +2,7 @@
 
 ## Student Instructions
 
-- For this project, you will be looking at the starter code and following the directions in the scripts.js file. The project will requre you to apply what you have learned in working with getting elements and setting elements using the DOM. The functions in the scripts.js file and the onclick attributes in the index.html file have already been created for you.
+- For this project, you will be looking at the starter code and following the directions in the scripts.js file. The project will require you to apply what you have learned in working with getting elements and setting elements using the DOM. The functions in the scripts.js file and the onclick attributes in the index.html file have already been created for you.
 
 ## Resources
 
